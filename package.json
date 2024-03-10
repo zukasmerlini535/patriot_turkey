@@ -1,12 +1,12 @@
 {
-  "name": "piece_sprinkles",
-  "version": "1.2.0",
+  "name": "cyst_recommend",
+  "version": "1.0.0",
   "description": "Compose render prop components",
   "main": "lib/index.js",
   "module": "es/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ZukasMerlini535/piece_sprinkles"
+    "url": "https://github.com/ZukasMerlini535/cyst_recommend"
   },
   "keywords": [
     "react",
@@ -18,7 +18,7 @@
   "author": "ZukasMerlini535",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ZukasMerlini535/piece_sprinkles/issues"
+    "url": "https://github.com/ZukasMerlini535/cyst_recommend/issues"
   },
   "peerDependencies": {
     "react": "^15.0.0 || ^16.0.0 || ^17.0.0 || ^18.0.0"
@@ -56,31 +56,7 @@
     "rollup-plugin-node-resolve": "^3.3.0",
     "rollup-plugin-replace": "^2.0.0",
     "rollup-plugin-uglify": "^3.0.0",
-    "giant_runaway": "1.0.0",
-    "panther_puncture": "1.0.0",
-    "seafood_gender": "1.0.0",
-    "odometer_adorable": "1.0.0",
-    "drapes_capitalism": "1.0.0",
-    "boutique_analgesia": "1.0.0",
-    "preserves_lag": "1.0.0",
-    "great_obsolete": "1.0.0",
-    "gainful_attraction": "1.0.0",
-    "mailer_latte": "1.0.0",
-    "blackberry_curse": "1.0.0",
-    "enjoyment_disembodiment": "1.0.0",
-    "mute_unarmed": "1.0.0",
-    "communion_fragile": "1.0.0",
-    "edition_generation": "1.0.0",
-    "gall-bladder_dependent": "1.0.0",
-    "trigger_hypothesis": "1.0.0",
-    "policy_solid": "1.0.0",
-    "wicked_piety": "1.0.0",
-    "better_cuddly": "1.0.0",
-    "utility_amuse": "1.0.0",
-    "car_uniformity": "1.0.0",
-    "charity_country": "1.0.0",
-    "bestseller_bruise": "1.0.0",
-    "advocacy_toad": "1.0.0"
+    "piece_sprinkles": "1.0.0"
   },
-  "homepage": "https://github.com/ZukasMerlini535/piece_sprinkles#README.md"
+  "homepage": "https://github.com/ZukasMerlini535/cyst_recommend#README.md"
 }
